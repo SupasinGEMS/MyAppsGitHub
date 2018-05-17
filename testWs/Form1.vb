@@ -134,6 +134,6 @@ Public Class Form1
         MsgBox("GEMS GitHub")
         MsgBox("TESTInsertFromGitHub")
         MsgBox("TETEET")
-        Dim a As Integer = 10
+        Dim a As Integer = 10111
     End Sub
 End Class
