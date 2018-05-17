@@ -1,0 +1,25 @@
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\bin\Debug\testWs.exe.config
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\bin\Debug\testWs.exe
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\bin\Debug\testWs.pdb
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\bin\Debug\testWs.xml
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\bin\Debug\Newtonsoft.Json.dll
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.vbprojResolveAssemblyReference.cache
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.Form1.resources
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.Resources.resources
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.vbproj.GenerateResource.Cache
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.exe
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.xml
+d:\my document\documents\visual studio 2015\Projects\testWs\testWs\obj\Debug\testWs.pdb
+D:\EMC\test\testWs\testWs\bin\Debug\testWs.exe.config
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.exe
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.xml
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.pdb
+D:\EMC\test\testWs\testWs\bin\Debug\testWs.exe
+D:\EMC\test\testWs\testWs\bin\Debug\testWs.pdb
+D:\EMC\test\testWs\testWs\bin\Debug\testWs.xml
+D:\EMC\test\testWs\testWs\bin\Debug\Newtonsoft.Json.dll
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.vbprojResolveAssemblyReference.cache
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.Form1.resources
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.Resources.resources
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.vbproj.GenerateResource.Cache
+D:\EMC\test\testWs\testWs\obj\Debug\testWs.Form2.resources
