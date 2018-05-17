@@ -135,6 +135,7 @@ Public Class Form1
         MsgBox("TESTInsertFraaaomGitHub")
         MsgBox("TETEET")
         MsgBox("TEST Iaaanterface555555555aaa5aaa5555aaaaaaaaaaa55")
+        Dim aaa As String = ""
         Dim a As Integer = 10111
     End Sub
 End Class
